@@ -1,7 +1,14 @@
-# Materi: HTML - table tags
+# Materi: HTML & CSS
 
-Membuat tampilan papan catur menggunakan table tags dan atributnya (*border, bgcolor, height, width*)
+- Membuat tampilan papan catur menggunakan table tags dan atributnya (*border, bgcolor, height, width*)
 
-**Hasil Screenshot**
+**Screenshot HTML (table)**
 
-![papan catur](image.png)
+![papan catur html](image.png)
+
+- Membuat tampilan papan catur menggunakan div tags dan css internal styling
+
+**Screenshot CSS (div - css internal)**
+
+![papan catur css](image-css.png)
+
